@@ -1,0 +1,8 @@
+# Camada Model e replicação (Etapa 1)
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+# Camada Controller (Etapa 2) — API REST
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9

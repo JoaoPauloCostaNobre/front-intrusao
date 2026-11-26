@@ -1,0 +1,12 @@
+# ambiente virtual Python
+.venv/
+__pycache__/
+*.pyc
+# dados do CICIDS2017 (arquivos grandes — não vão para o GitHub)
+dados/*.csv
+dados/*.zip
+# front-end
+frontend/node_modules/
+frontend/dist/
+# segredos (chave da API do LLM)
+.env
